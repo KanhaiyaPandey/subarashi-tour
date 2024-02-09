@@ -2,6 +2,7 @@ import { LocomotiveScrollProvider } from "react-locomotive-scroll";
 import { useRef } from "react";
 import "./App.css";
 import IntroSection from "./components/IntroSection";
+import OfferSection from "./components/OfferSection";
 
 const App = () => {
 
@@ -17,7 +18,7 @@ const App = () => {
         <div className="main">
 
         <IntroSection/>
-        
+        <OfferSection/>
            
         </div>
       </main>

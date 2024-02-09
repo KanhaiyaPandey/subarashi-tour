@@ -6,6 +6,10 @@ body{
   padding:0;
 }
 
+h1, h2, h3, h4, p {
+  font-family: 'Poppins', sans-serif;
+}
+
 
 
 /* all font classes */
@@ -163,10 +167,10 @@ body{
   text-align: center;
   color: #253439;
   font-size: 40px;
-  font-weight: bolder;
+  font-weight: 500;
   padding-top: 2em;
   opacity:0;
-  transition: opacity 4s;
+  transition: opacity 3s;
 }
 .appear{
 opacity:1;
