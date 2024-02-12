@@ -28,7 +28,7 @@ const IntroSection = () => {
               <div className="location_preview">
 
               <div className="preview" data-scroll data-scroll-speed="-1" >
-                      <img src="https://images.unsplash.com/photo-1559628233-100c798642d4?ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80" alt="bswb"/>
+                      <img src="https://images.pexels.com/photos/7057954/pexels-photo-7057954.jpeg?auto=compress&cs=tinysrgb&w=600" alt="bswb"/>
                       <div className="preview__details">
                           <span className="preview__details__text">
                               <p className="preview__details__text__top txt_lg_white">Nusa Penida</p>
@@ -51,18 +51,18 @@ const IntroSection = () => {
                   </div>
 
                   <div className="preview" data-scroll data-scroll-speed="-1">
-                      <img src="https://images.unsplash.com/photo-1568609477908-f76bff63279c?ixlib=rb-1.2.1&auto=format&fit=crop&w=444&q=80" alt=""/>
+                      <img src="https://images.pexels.com/photos/931007/pexels-photo-931007.jpeg?auto=compress&cs=tinysrgb&w=600" alt=""/>
                       <div className="preview__details">
                           <span className="preview__details__text">
-                              <p className="preview__details__text__top txt_lg_white">Mount Bromo</p>
+                              <p className="preview__details__text__top txt_lg_white">Sukasada</p>
                               <p className="preview__details__text__top txt_lg_white"><i className="fa fa-star" aria-hidden="true"></i> 4.5</p>
                           </span>
-                          <p className="preview__details__text__bottom txt_lg_white"><i className="fa fa-map-marker" aria-hidden="true"></i> Malang, Indonesia</p>
+                          <p className="preview__details__text__bottom txt_lg_white"><i className="fa fa-map-marker" aria-hidden="true"></i> Bali, Indonesia</p>
                       </div>
                   </div>
 
                   <div className="preview" data-scroll data-scroll-speed="1">
-                      <img src="https://images.unsplash.com/photo-1525596662741-e94ff9f26de1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" alt=""/>
+                      <img src="https://images.pexels.com/photos/12323346/pexels-photo-12323346.jpeg?auto=compress&cs=tinysrgb&w=600" alt=""/>
                       <div className="preview__details">
                           <span className="preview__details__text">
                               <p className="preview__details__text__top txt_lg_white">Gili Island</p>

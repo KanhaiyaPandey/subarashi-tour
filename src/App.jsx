@@ -3,6 +3,7 @@ import { useRef } from "react";
 import "./App.css";
 import IntroSection from "./components/IntroSection";
 import OfferSection from "./components/OfferSection";
+import Blog from "./components/Blog";
 
 const App = () => {
 
@@ -19,6 +20,7 @@ const App = () => {
 
         <IntroSection/>
         <OfferSection/>
+        <Blog/>
            
         </div>
       </main>
